@@ -1,1 +1,6 @@
 ASL_Alphabet_Dataset
+asl_landmarks_2.csv
+asl_landmarks_clean.csv
+asl_landmarks.csv
+asl_letter_classifier_2.pkl
+asl_letter_classifier.pkl
